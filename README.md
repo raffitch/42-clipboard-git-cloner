@@ -11,7 +11,7 @@ Why waste precious brainpower on repetitive tasks? This script is your clipboard
    Open your terminal and run the following commands:  
    ```bash
    git clone https://github.com/raffitch/42-lazy-dev-butler.git
-   cd <repo-name>
+   cd <42-lazy-dev-butler>
    ```
 
 2. **Make the Script Executable**  
