@@ -10,7 +10,7 @@ Why waste precious brainpower on repetitive tasks? This script is your clipboard
 1. **Download the Script from GitHub**  
    Open your terminal and run the following commands:  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/raffitch/42-lazy-dev-butler.git
    cd <repo-name>
    ```
 
